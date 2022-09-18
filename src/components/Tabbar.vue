@@ -1,17 +1,17 @@
 <template>
-  <div class="Tabbar">
+  <div class="TabBar">
     <div class="item"></div>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'Tabbar'
+  name: 'TabBar'
 }
 </script>
 
 <style lang="less">
-.Tabbar {
+.TabBar {
   position: fixed;
   bottom: 0;
   left: 0;
